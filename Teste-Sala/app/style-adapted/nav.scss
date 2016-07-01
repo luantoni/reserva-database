@@ -1,0 +1,22 @@
+/*Adaptação no menu*/
+
+#navbar > div > div > ul > li > a{
+	outline: none;
+}
+
+#apagar{
+    width: 1px;
+    overflow: hidden;
+}
+
+ #circle {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 10px auto;
+}
+
+.fa-trash{cursor:pointer};
+
+.fa-pencil{cursor:pointer};
